@@ -29,7 +29,10 @@ I’m a Computer Science student at the ENI Madagascar <img src="https://media.g
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### Connect with me
 
+- **Instagram**: [@lxrd-shadoww](https://www.instagram.com/andritiana_idealy/)
+- **Facebook**: [@Shadoww](https://www.facebook.com/profile.php?id=100063562573268)
 
 
 
