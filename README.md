@@ -33,6 +33,8 @@ I’m a Computer Science student at the ENI Madagascar <img src="https://media.g
 
 - **Instagram**: [@lxrd-shadoww](https://www.instagram.com/andritiana_idealy/)
 - **Facebook**: [@Shadoww](https://www.facebook.com/profile.php?id=100063562573268)
+- **Email**:
+[andritiana.idealy@gmail.com](andritiana.idealy@gmail.com)
 
 
 
