@@ -16,7 +16,7 @@ I’m a Computer Science student at the ENI Madagascar <img src="https://media.g
 
 - :seedling: Exploring Technical Content.
 
-- :zap: In my free time, I solve problems on LeetCode 🧠, play video games 🎮 and watch YouTube videos 🎥.
+- :zap: In my free time, I play video games 🎮 and watch YouTube videos 🎥.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
