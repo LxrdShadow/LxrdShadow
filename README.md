@@ -1,51 +1,109 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<h1 align="center">
-  Hi, I'm Shadow
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  <h1 align="center">
+    Hi there, I'm Shadow 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
+  <h3 align="center">
+    CS Student | Full-Stack Developer | Learning the Hard Way™
+  </h3>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality+with+code;Passionate+about+AI+and+machine+learning;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
+
 ---
 
-### 👨‍💻: About Me :
-I’m a Computer Science student at the ENI Madagascar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I'm going for an Artificial Intelligence degree.
+<p align="center">
+⚠️ Warning: Shit load of sarcasm incoming
+</p>
 
-- :seedling: Exploring Technical Content.
+### 🕳️ About Me 
 
-- :zap: In my free time, I play video games 🎮 and watch YouTube videos 🎥.
+I'm Idealy (aka Shadow), a CS student at ENI Madagascar, just trying to keep my code from becoming self-aware while I learn how not to crash my backend (or my mental state).
 
+I’m *not* building AI tools (yet) — but I’m curious. I dip my toes into automation, backend systems, and whatever weird project lets me learn and suffer in equal measure.  
+
+Outside of coding, I’m usually:
+> Debugging things that worked yesterday, fighting Zsh config dragons, or procrastinating by researching how to be more productive.
+
+Some say I’m passionate. I just call it *functional chaos*.
+
+
+- 🔧 **Currently working on:** automation bots, silly projects, & school survival
+- 📚 **Currently learning:** DSA, how interpreters work, and why things break
+- 🧪 **Past projects:** Interview simulation app, Terminal-based music player, Manga downloader
+- 🤝 **Looking to collaborate on:** anything interesting and educational (bonus points if it breaks stuff)
+- 🐍 **Languages I speak:** Python, JS, Go, sarcasm
+- 😐 **Fun fact:** I once tried to learn C. I’ll be back... one day.
+
+---
+
+### 🛠️ Tech Stack
+
+#### Programming Languages
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
 </div>
 
-### Connect with me
+#### Web Development
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="50" height="50"/>&nbsp;
+</div>
 
-- **Instagram**: [@lxrd-shadoww](https://www.instagram.com/andritiana_idealy/)
-- **Facebook**: [@Shadoww](https://www.facebook.com/profile.php?id=100063562573268)
-- **Email**:
-[andritiana.idealy@gmail.com](andritiana.idealy@gmail.com)
+#### Databases & Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+</div>
 
+---
 
+### 📊 GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LxrdShadow&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxrdShadow&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LxrdShadow&theme=radical" alt="Shadow-Idealy" />
+</div>
 
-<!-- 👋 Hi, I’m @Shadow...
-- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+---
 
-<!---
-Shadow-Idealy/Shadow-Idealy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.instagram.com/andritiana_idealy/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100063562573268" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:andritiana.idealy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/andritiana-idealy-4b6428320/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LxrdShadow&style=flat-square&color=blue" alt="Profile Views"/>
+  <p>Thanks for visiting! ❤️</p>
+  <img src="https://media.giphy.com/media/xUPGcEliCc7bETy3Hi/giphy.gif" width="200"/>
+</div>
