@@ -103,7 +103,6 @@ Some say I’m passionate. I just call it *functional chaos*.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LxrdShadow&style=flat-square&color=blue" alt="Profile Views"/>
   <p>Thanks for visiting! ❤️</p>
   <img src="https://media.giphy.com/media/xUPGcEliCc7bETy3Hi/giphy.gif" width="200"/>
 </div>
