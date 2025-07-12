@@ -74,12 +74,12 @@ Some say I’m passionate. I just call it *functional chaos*.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LxrdShadow&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxrdShadow&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LxrdShadow&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxrdShadow&layout=compact&langs_count=8&theme=catppuccin_mocha"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LxrdShadow&theme=radical" alt="Shadow-Idealy" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LxrdShadow&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
 </div>
 
 ---
