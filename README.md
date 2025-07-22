@@ -87,7 +87,7 @@ Some say I’m passionate. I just call it *functional chaos*.
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.instagram.com/andritiana_idealy/" target="_blank">
+  <a href="https://www.instagram.com/lxrd_shadoww?igsh=YWlyZ2hlNzNyYmVj" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100063562573268" target="_blank">
