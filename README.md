@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  <h1 align="center">
-    Hi there, I'm Shadow 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Shadow.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
   
   <h3 align="center">
     CS Student | Full-Stack Developer | Learning the Hard Way™
