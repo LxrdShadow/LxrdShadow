@@ -28,6 +28,7 @@ Some say I’m passionate. I just call it *functional chaos*.
 - 🧪 **Past projects:** Interview simulation app, Terminal-based music player, Manga downloader
 - 🤝 **Looking to collaborate on:** anything interesting and educational (bonus points if it breaks stuff)
 - 🐍 **Languages I speak:** Python, JS, Go, sarcasm
+- ♟️ **My interests:** Chess, reading, music
 - 😐 **Fun fact:** I once tried to learn C. I’ll be back... one day.
 
 ---
