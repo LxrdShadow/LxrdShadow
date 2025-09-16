@@ -20,8 +20,6 @@ I’m *not* building AI tools (yet) — but I’m curious. I dip my toes into au
 Outside of coding, I’m usually:
 > Debugging things that worked yesterday, fighting Zsh config dragons, or procrastinating by researching how to be more productive.
 
-Some say I’m passionate. I just call it *functional chaos*.
-
 
 - 🔧 **Currently working on:** automation bots, silly projects, & school survival
 - 📚 **Currently learning:** DSA, how interpreters work, and why things break
