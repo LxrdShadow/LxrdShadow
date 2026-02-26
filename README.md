@@ -64,14 +64,24 @@ Outside of coding, I’m usually:
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!--<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LxrdShadow&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxrdShadow&layout=compact&langs_count=8&theme=catppuccin_mocha"/>
+</div>-->
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=148222245" target="_blank" style="display: block" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=148222245&image_size=auto&color_scheme=dark" width="571" height="auto" align="center">
+      <img alt="Dashboard stats of @LxrdShadow" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=148222245&image_size=auto&color_scheme=light" width="571" height="auto" align="center">
+    </picture>
+  </a>
+  
+  <div>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LxrdShadow&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
+  </div>
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LxrdShadow&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
-</div>
+
 
 ---
 
